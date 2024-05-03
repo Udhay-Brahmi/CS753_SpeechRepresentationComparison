@@ -10,7 +10,7 @@ This project compares various speech representation models on the LibriSpeech da
 - **HuBERT Large**: Serves as the baseline for comparison; known for its robust performance in various speech tasks.
 
 ## Metric
-- **Centered Kernel Alignment (CKA)**: Used to measure the similarity between the representations from different models.
+- **Centered Kernel Alignment (CKA)**: Used to measure the similarity between the representations from different models. CKA code derived from [this repository.](https://github.com/yuanli2333/CKA-Centered-Kernel-Alignment/tree/master)
 
 ## Prerequisites
 - Python 3.8 or newer
