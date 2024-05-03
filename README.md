@@ -23,3 +23,9 @@ This project compares various speech representation models on the LibriSpeech da
 git clone https://github.com/Udhay-Brahmi/CS753_SpeechRepresentationComparison.git
 cd CS753_SpeechRepresentationComparison
 pip install -r requirements.txt
+```
+
+![download (2)](https://github.com/Udhay-Brahmi/CS753_SpeechRepresentationComparison/assets/72250606/fd25644a-852f-4b1f-bb88-86a107697dca)
+![download (3)](https://github.com/Udhay-Brahmi/CS753_SpeechRepresentationComparison/assets/72250606/e7f9e7d3-81be-4c11-8126-423840f2973c)
+![download (5)](https://github.com/Udhay-Brahmi/CS753_SpeechRepresentationComparison/assets/72250606/ea6cd677-a8a6-48b4-8ac1-30fd0858ac4c)
+![download (4)](https://github.com/Udhay-Brahmi/CS753_SpeechRepresentationComparison/assets/72250606/db69986a-675b-44f4-8ca8-ff1966d12b26)
