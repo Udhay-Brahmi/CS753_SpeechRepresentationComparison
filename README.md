@@ -20,6 +20,6 @@ This project compares various speech representation models on the LibriSpeech da
 
 ## Installation
 ```bash
-git clone https://your-repository.git
-cd your-repository
+git clone https://github.com/Udhay-Brahmi/CS753_SpeechRepresentationComparison.git
+cd CS753_SpeechRepresentationComparison
 pip install -r requirements.txt
