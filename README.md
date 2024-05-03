@@ -17,4 +17,9 @@ This project compares various speech representation models on the LibriSpeech da
 - PyTorch
 - Transformers library
 - Numpy
-- Matplotlib
+
+## Installation
+```bash
+git clone https://your-repository.git
+cd your-repository
+pip install -r requirements.txt
