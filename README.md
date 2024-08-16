@@ -1,7 +1,11 @@
 # Speech Representation Comparison
 
 This project compares various speech representation models on the LibriSpeech dataset's test split audio files. We evaluate the representations from several pre-trained models including Wav2Vec 2.0 (base and large), HuBERT (base and large), and XLS-R (large). Our baseline for comparison is the HuBERT large model, and we utilize Centered Kernel Alignment (CKA) as the metric for comparison. Additionally, results are visualized through heat maps.
-
+## Team Members
+- **Prateek Jain(23M0760)​
+- **Udhay Brahmi(23M2107)​
+- **Sayantika Mandal(22D0379)​
+- **Lavinia Nongbri(23D0383)​
 ## Models Compared
 - **Wav2Vec 2.0 Base**: Pre-trained model for speech recognition.
 - **Wav2Vec 2.0 Large**: A larger variant of Wav2Vec 2.0, expected to capture more detailed features.
